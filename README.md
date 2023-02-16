@@ -1,4 +1,4 @@
-# Bug Bounty
+# Bug Bounty Program
 
 # **Introduction**
 
