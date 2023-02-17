@@ -56,7 +56,7 @@ Only reports that meet the following requirements are eligible to receive a mone
 
 # Scope
 
-- https://beta1.bravado.co/*
+- [https://dev1.bravado.co/](https://dev1.bravado.co/)
 
 ## What Qualifies?
 
